@@ -5,7 +5,8 @@
 <h2>Medium Blog</h2>
 <p>For an in-depth look at the analysis, insights, and recommendations, read the full case study on Medium: <p><a href="https://medium.com/@arjunshrivas1997/the-delivery-dynamics-understanding-customer-patterns-across-brazil-e205d9437082" target="_blank">Link</a></p></p>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@arjunshrivas1997/0">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arjunshrivas1997/0">
 
 <h2>Insights</h2>
 <ul>
