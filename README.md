@@ -7,8 +7,7 @@
 
 
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lOC1mko6ZYOgARJ7l-DDAA.png" alt="Medium Blog Thumbnail" width="600" />
-
+[https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lOC1mko6ZYOgARJ7l-DDAA.png](https://medium.com/@arjunshrivas1997/the-delivery-dynamics-understanding-customer-patterns-across-brazil-e205d9437082?source=user_profile_page---------0-------------541e9e803ce3---------------)
 <h2>Insights</h2>
 <ul>
     <li>Significant increase in order volume from October 2016 to November 2017, with clear seasonal trends.</li>
