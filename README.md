@@ -1,10 +1,10 @@
-<h1>Delivery Dynamics Case Study</h1>
+<h1>The Delivery Dynamics: Understanding Customer Patterns Across Brazil</h1>
 
 <p>This repository contains a comprehensive case study analyzing customer patterns across Brazil using BigQuery and SQL. The insights drawn from the analysis aim to inform strategic decisions and enhance operational efficiency for businesses.</p>
 
 <h2>Medium Blog</h2>
 <p>For an in-depth look at the analysis, insights, and recommendations, read the full case study on Medium:</p>
-<p><a href="https://medium.com/@arjunshrivas1997/the-delivery-dynamics-understanding-customer-patterns-across-brazil-e205d9437082" target="_blank">The Delivery Dynamics: Understanding Customer Patterns Across Brazil</a></p>
+[link]("https://medium.com/@arjunshrivas1997/the-delivery-dynamics-understanding-customer-patterns-across-brazil-e205d9437082")
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lOC1mko6ZYOgARJ7l-DDAA.png" alt="Medium Blog Thumbnail" width="600" />
 
